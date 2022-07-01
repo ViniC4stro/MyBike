@@ -34,8 +34,7 @@
         android:layout_marginRight="30dp"
         android:layout_marginTop="60dp"
         android:id="@+id/fabReservar"
-        >
-
-    </com.google.android.material.floatingactionbutton.FloatingActionButton>
+        android:contentDescription="Float Action Button"
+        />
 
 </LinearLayout>
